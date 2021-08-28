@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FireflyappsTest/static/css/main.e06ab9df.chunk.css",
+    "main.js": "/FireflyappsTest/static/js/main.7ca22662.chunk.js",
+    "main.js.map": "/FireflyappsTest/static/js/main.7ca22662.chunk.js.map",
+    "runtime-main.js": "/FireflyappsTest/static/js/runtime-main.c42d7342.js",
+    "runtime-main.js.map": "/FireflyappsTest/static/js/runtime-main.c42d7342.js.map",
+    "static/js/2.4c761517.chunk.js": "/FireflyappsTest/static/js/2.4c761517.chunk.js",
+    "static/js/2.4c761517.chunk.js.map": "/FireflyappsTest/static/js/2.4c761517.chunk.js.map",
+    "static/js/3.ab8250df.chunk.js": "/FireflyappsTest/static/js/3.ab8250df.chunk.js",
+    "static/js/3.ab8250df.chunk.js.map": "/FireflyappsTest/static/js/3.ab8250df.chunk.js.map",
+    "index.html": "/FireflyappsTest/index.html",
+    "static/css/main.e06ab9df.chunk.css.map": "/FireflyappsTest/static/css/main.e06ab9df.chunk.css.map",
+    "static/js/2.4c761517.chunk.js.LICENSE.txt": "/FireflyappsTest/static/js/2.4c761517.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/FireflyappsTest/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c42d7342.js",
+    "static/js/2.4c761517.chunk.js",
+    "static/css/main.e06ab9df.chunk.css",
+    "static/js/main.7ca22662.chunk.js"
+  ]
+}
